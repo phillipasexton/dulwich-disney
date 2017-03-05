@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Dulwich at Disney.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4A15A5FD1E6C1DED002FF52F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4A15A6111E6C1DED002FF52F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4A15A61C1E6C1DED002FF52F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
